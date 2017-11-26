@@ -1,5 +1,7 @@
-# Balfast Pathways Server
+# Belfast Pathways Server
 Server Scripts for the [Belfast Mobility Project]() GPS tracking App.
+
+The Android application that we used on the server is also available [here](https://github.com/jonnyhuck/bmp-pathways-app)
 
 ## Setup
 The scripts are very simple and should work easily after the below setup:
